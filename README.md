@@ -1,6 +1,10 @@
+## Introduction
+
 Welcome to MOD 1 Gap curriculum. We’ve designed these materials to help get you up to speed and ready to get the most out of your Flatiron experience.
 
 The curriculum is designed to be easy at parts, challenging in others. A lot of it is designed around common errors that beginning developers encounter when they’re first getting started. Take your time going through, it is important that you thoroughly understand everything before you repeat.
+
+## Repetitioon and Feedasdfasdf
 
 A bit about repetition and feedback.
 
