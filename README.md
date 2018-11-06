@@ -1,4 +1,4 @@
-## Introduction
+## Get Ready to Rubyyyyyy!!
 
 Welcome to MOD 1 Gap curriculum. We’ve designed these materials to help get you up to speed and ready to get the most out of your Flatiron experience.
 
