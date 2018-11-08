@@ -26,10 +26,12 @@ In the same way, we have asked you to repeat MOD 1. This is us giving you
 feedback. As with a lab, **you** need to take that feedback and use it to
 improve on your next attempt.
 
-[sgh] What's this?
-> In the next section, we're going to go over some error messages that might be
-> applicable to you, and then after that we'll go through a series of coding
-> exercises to help you understand the principles of learning to code.
+In the next section, we're going to go over some behaviors that negatively
+affect students success in our program. We call those "anti-patterns." We'd
+encourage you to remove or alter any anti-patterns as you follow this course.
+Students rarely fail because they didn't know some detail of the programming
+language, they usually fail because they didn't have a work process that kept
+them in control of the code, versus the reverse.
 
 To show my commitment to you in making this curriculum as useful as possible,
 feel free to email me personally if you find a portion of the curriculum that
@@ -82,7 +84,7 @@ Typical errors:
     internet or imagining a "hole" and what kind of thing fits in that "hole"
 2.  Trying to pass the tests or do you try to understand how they're trying to
     improve your approach to solving the problem?
-3.  Putting in complicating code, guessing, flailing, hoping the next random
+3.  Putting in complicated code, guessing, flailing, hoping the next random
     pasted bit passes the test (see 1) instead of making a hypothesis, testing
     it in IRB or with some debugging output before putting it in
 4.  Not taking time to understand the problem the lab is trying to solve
