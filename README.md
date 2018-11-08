@@ -37,9 +37,9 @@ To show my commitment to you in making this curriculum as useful as possible,
 feel free to email me personally if you find a portion of the curriculum that
 is unclear or could be better. I'd love to hear from you.
 
-Brian Tobal
-Director of Curriculum
-Brian.tobal@flatironschool.com
+Brian Tobal  
+Director of Curriculum  
+Brian.tobal@flatironschool.com  
 
 Good luck!
 
